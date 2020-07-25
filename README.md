@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building stunning and responsive web sites using React.js
 - 🌱 I’m currently learning mongoDb, Express.js and Deno
 - 👯 I’m looking to collaborate on any exciting freelance project

@@ -1,6 +1,6 @@
-### Hi there!  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">  I am Sandip
 
-[![HitCount](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
+[![views](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
 
 - 🔭 I’m currently working on building stunning and responsive web sites using React.js
 - 🌱 I’m currently learning mongoDb, Express.js and Deno
@@ -20,6 +20,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 <br />
+
+**Let's talk more:**  
+
 <a href="https://twitter.com/sandip_1513">
   <img align="left" alt="sandip's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

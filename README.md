@@ -22,7 +22,7 @@
 
 <br />
 
-[![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandip15)](https://github.com/sandip15/github-readme-stats)
+![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandip15&show_icons=true&theme=radical&count_private=true)
 
 **Let's talk more:**  
 

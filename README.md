@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sandip15/sandip15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building stunning and responsive web sites using React.js
+- 🌱 I’m currently learning mongoDb, Express.js and Deno
+- 👯 I’m looking to collaborate on any exciting freelance project
+<!-- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about anything related to tech , i would love to share my thoughts
+- 📫 How to reach me: Email and linkedIn
+<!-- 😄 Pronouns: ...-->
+- ⚡ Fun fact: I can speak fluent mandarin
+

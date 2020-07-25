@@ -1,6 +1,6 @@
-### Hi there  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+### Hi there!  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-[![HitCount](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
+[![Profile Hits](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
 
 - 🔭 I’m currently working on building stunning and responsive web sites using React.js
 - 🌱 I’m currently learning mongoDb, Express.js and Deno
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/sandip_1513">
   <img align="left" alt="sandip's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/sandip-roy">
+<a href="https://www.linkedin.com/in/sandip-roy/">
   <img align="left" alt="sandip's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sandip15">

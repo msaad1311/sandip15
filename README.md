@@ -1,6 +1,6 @@
 ### Hi there!  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-[![Profile Hits](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
+[![HitCount](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
 
 - 🔭 I’m currently working on building stunning and responsive web sites using React.js
 - 🌱 I’m currently learning mongoDb, Express.js and Deno

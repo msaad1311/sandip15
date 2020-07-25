@@ -1,8 +1,12 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">  I am Sandip
+<br/>
 
 [![views](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
+<br/>
+### Thanks for stopping by! 🤩 &nbsp;
+Hey guys! I am a highly passionate and self-disciplined **full-stack web developer** with a diverse experience of working ranging from a small startup to a big telecommunication company. There is probably nothing more exciting for me than to realize that “Ahaa moment” whenever I can figure out the solution to some interesting problems that I come across during building different software or applications 💻. I recently graduated with a master’s degree in **Software engineering** 🎓  from Tongji University 🏛. I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products or photography.
 
-
+### More about me!
 - 🔭 I’m currently working on building stunning and responsive web sites using React.js
 - 🌱 I’m currently learning mongoDb, Express.js and Deno
 - 👯 I’m looking to collaborate on any exciting freelance project
@@ -11,7 +15,7 @@
 - 📫 How to reach me: Email and [linkedIn](www.linkedin.com/in/sandip-roy) 
 <!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I can speak fluent mandarin
-
+<br/>
 
 **My technical stack:**  
 

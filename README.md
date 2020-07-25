@@ -15,14 +15,19 @@
 
 **My technical stack:**  
 
+<code><img height="20" src="https://cdn.vox-cdn.com/thumbor/HFwS18BH4dG7dl5kD37qHK2nemg=/0x2:580x389/1400x1050/filters:focal(0x2:580x389):format(jpeg)/cdn.vox-cdn.com/assets/979932/html5.jpeg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU"></code>
+<code><img height="20" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"></code>
+<code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 
 <br />
 
-![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandip15&show_icons=true&theme=radical&count_private=true)
+![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandip15&show_icons=true&theme=radical&count_private=true&hide=stars)
 
 **Let's talk more:**  
 

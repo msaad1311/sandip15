@@ -6,7 +6,7 @@
 Hey guys! I am a highly passionate and self-disciplined **full-stack web developer** with a diverse experience of working ranging from a small startup to a big telecommunication company. There is probably nothing more exciting for me than to realize that “Ahaa moment” whenever I can figure out the solution to some interesting problems that I come across during building different software or applications 💻. I recently graduated with a master’s degree in **Software engineering** 🎓  from Tongji University 🏛. I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products or photography.
 
 
-**My technical stack:**  
+### My technical stack:  
 
 <code><img height="20" src="https://cdn.vox-cdn.com/thumbor/HFwS18BH4dG7dl5kD37qHK2nemg=/0x2:580x389/1400x1050/filters:focal(0x2:580x389):format(jpeg)/cdn.vox-cdn.com/assets/979932/html5.jpeg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png"></code>
@@ -33,7 +33,7 @@ Hey guys! I am a highly passionate and self-disciplined **full-stack web develop
 - ⚡ Fun fact: I can speak fluent mandarin
 <br/>
 
-**Let's talk more:**  
+### Let's talk more:  
 
 <a href="https://twitter.com/sandip_1513">
   <img align="left" alt="sandip's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

@@ -2,7 +2,7 @@
 
 [![views](http://hits.dwyl.com/sandip15/sandip15.svg)](http://hits.dwyl.com/sandip15/sandip15)
 
-### Thanks for stopping by! 🤩 &nbsp;
+### Thanks for stopping by! 🤩 🤩 &nbsp;
 Hey guys! I am a highly passionate **full-stack web developer** with a diverse experience of working ranging from a small startup to a big telecommunication company. I have recently graduated with a master’s degree in 🎓 **Software engineering** 🎓  from 🏛 Tongji University 🏛. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech, creating smart software products or photography.
 
 
